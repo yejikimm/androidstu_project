@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">project1</string>
+    <string name="io_title01">Keynote</string>
+    <string name="io_title02">Android: Open to the future</string>
+    <string name="io_title03">Wear OS by Google</string>
+    <string name="jeju"><![CDATA[<제주도>]]></string>
+</resources>

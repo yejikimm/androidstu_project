@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="address">
+        <item>서울시</item>
+        <item>인천</item>
+        <item>제주도</item>
+    </string-array>
+</resources>
